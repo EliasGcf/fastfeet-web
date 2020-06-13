@@ -60,7 +60,7 @@ Link to project layout: [Project Web Layout](https://xd.adobe.com/view/62e829fc-
 To see the api, click here: [FastFeet Rest API](https://github.com/EliasGcf/fastfeet-api)<br />
 To see the mobile client, click here: [FastFeet Mobile](https://github.com/EliasGcf/fastfeet-mobile)
 
-## 🚀  Technologies
+## 🚀 Technologies
 
 Technologies that I used to develop this web client
 
