@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="FastFeet" height="215" title="FastFeet" src="../.github/logo.svg" />
+  <img src="https://res.cloudinary.com/eliasgcf/image/upload/v1590249783/fastfeet/logo_erpvwm.svg" alt="Logo" width="250px">
 </h1>
 
 <h3 align="center">
