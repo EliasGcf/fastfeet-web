@@ -121,7 +121,7 @@ $ gh repo fork EliasGcf/fastfeet-web
 
 ```bash
 # Clone your fork
-$ git clone your-fork-url && cd gobarber-web
+$ git clone your-fork-url && cd fastfeet-web
 
 # Create a branch with your feature
 $ git checkout -b my-feature
